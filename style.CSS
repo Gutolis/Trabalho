@@ -8,11 +8,11 @@ body {
 }
 /* Estilização das seções */
 .section {
- padding: 20px;
- margin: 20px auto;
- max-width: 800px;
- border-radius: 10px;
- box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+ padding: 20 px;
+ margin: 20 px auto;
+ max-width: 800 px;
+ border-radius: 10 px;
+ box-shadow: 0 4 px 8 px rgba(0, 0, 0, 0.2);
 }
 /* Cores para cada seção */
 #section1 {
@@ -29,19 +29,19 @@ color: #1b5e20; /* Verde escuro */
 }
 /* Estilo dos títulos */
 h1 {
- font-size: 24px;
- margin-bottom: 10px;
+ font-size: 24 px;
+ margin-bottom: 10 px;
  text-align: center;
 }
 h2 {
- font-size: 18px;
- margin-bottom: 15px;
+ font-size: 18 px;
+ margin-bottom: 15 px;
  text-align: center;
  font-style: italic;
 }
 /* Estilo do texto */
 p {
- font-size: 16px;
+ font-size: 16 px;
  line-height: 1.6;
  text-align: justify;
 }
@@ -51,5 +51,6 @@ img {
  margin: 15px auto;
  max-width: 100%;
  border-radius: 5px;
- box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+ box-shadow: 0 2 px 4 px rgba(0, 0, 0, 0.3);
+
 }
